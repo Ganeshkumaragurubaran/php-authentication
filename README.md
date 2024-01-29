@@ -1,4 +1,4 @@
-# PHP-MySQL-Login-System
+# PHP-MySQL-Login-System.
 User Login and Registration system built using PHP and MySQL .
 
 ![screenshot](./img/screenshot-1.png)
